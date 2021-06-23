@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String... args) {
-        primeNumbers(7);
+
     }
 
     public static double areaOfTriangle(double a, double b) {
