@@ -38,7 +38,7 @@ public class Main {
         }
         List<Integer> primes = generatePrimes(x);
         for (int i = 0; i < primes.size(); i++) {
-            System.out.printf("Prime number (%d): %d %n", i + 1, primes.get(i));
+            System.out.printf("Prime number (%d): %d", i + 1, primes.get(i));
         }
     }
 
