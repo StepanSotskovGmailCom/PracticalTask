@@ -1,11 +1,10 @@
-import com.sun.deploy.util.StringUtils;
-
 import java.util.LinkedList;
 import java.util.List;
 
 public class Main {
 
     public static void main(String... args) {
+      primeNumbers(5);
     }
 
     public static double areaOfTriangle(double a, double b) {
